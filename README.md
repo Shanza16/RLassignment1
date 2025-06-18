@@ -1,4 +1,4 @@
-# Reinforcement Learning Assignment1
+# Reinforcement Learning Assignment 1
 
 
 This repository contains solutions to a reinforcement learning assignment focused on bandit algorithms. The goal is to evaluate and compare various strategies for solving the multi-armed bandit problem under different settings, including stationary and non-stationary environments.
