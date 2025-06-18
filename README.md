@@ -6,7 +6,7 @@ This repository contains solutions to a reinforcement learning assignment focuse
 
 
 
-# Contents
+## Contents
 
 - `Part1.ipynb` – Implementation of basic bandit algorithms
 - `Part1-comparison.ipynb` – Comparison across Greedy, ε-Greedy, Optimistic, and Gradient Bandit methods
@@ -14,14 +14,14 @@ This repository contains solutions to a reinforcement learning assignment focuse
 - `Part2-Abrupt.ipynb` – Response to abrupt environment changes (permutation at t = 501)
 
 
-# Requirements
+## Requirements
 
 - Python 3.6+
 - NumPy
 - Matplotlib
 - Jupyter Notebook
 
-# How to Run
+## How to Run
 
 Launch Jupyter and open each `.ipynb` file:
 
